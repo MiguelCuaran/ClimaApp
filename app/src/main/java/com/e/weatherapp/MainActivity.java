@@ -1,4 +1,4 @@
-package com.example.climaapp;
+package com.e.weatherapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -23,11 +23,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
-import android.os.Bundle;
-
-import com.e.weatherapp.CAFData;
-import com.e.weatherapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
